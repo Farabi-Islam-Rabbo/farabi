@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/11/UniversalCoverings_2880x1220.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shariful Islam Farabi</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh </h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farabi-islam-rabbo&label=Profile%20views&color=0e75b6&style=flat" alt="farabi-islam-rabbo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farabi-islam-rabbo" alt="farabi-islam-rabbo" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/farabi islam rabbo" target="blank"><img src="https://img.shields.io/twitter/follow/farabi islam rabbo?logo=twitter&style=for-the-badge" alt="farabi islam rabbo" /></a> </p>
 
